@@ -9,7 +9,7 @@ group :development do
   gem 'haml', '~> 4.0'
   gem 'compass', '~> 0.12'
   gem 'sass-globbing', '~> 1.0'
-  gem 'rubypants', '~> 0.2'
+  gem 'rubypants', '~> 0.7'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4'
   gem 'execjs'
